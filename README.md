@@ -2,7 +2,7 @@
 The Gallery website clone allows users to search for and download free images from a variety of sources, such as Unsplash and Pexels. The website will also provide information about the source of each image, so that users can give credit to the original creator if they choose to do so. The images are downloaded in a high-quality format, ensuring that they will look good when they are used in the user's projects.
 
 # Intro
-The project is still under development, but it is a good starting point for anyone who wants to learn how to build a Pinterest clone.
+The project is still under development, but it is a good starting point for anyone who wants to learn how to build a Pinterest clone. Visit the website at https://gallerypreview.netlify.app/ to get started.
 
 # Getting Started
 Prerequisites
